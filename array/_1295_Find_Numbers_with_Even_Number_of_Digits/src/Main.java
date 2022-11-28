@@ -56,7 +56,7 @@ public class Main {
 
     public static int getNumberOfDigits(int num) {
         int count = 0;                          // Initialise count to 1, not 0 cause we are dividing num/10 in while loop
-        while (num > 0) {                 // Iterate until number is 0; X/=Y it is same as X=X/Y
+        while (num != 0) {                 // Iterate until number is 0; X/=Y it is same as X=X/Y
             count++;                            // Increment count until number is 0
             num = num / 10;
 

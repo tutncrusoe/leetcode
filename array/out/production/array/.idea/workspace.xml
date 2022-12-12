@@ -88,7 +88,7 @@
     "last_opened_file_path": "/home/tutncrusoe/DATA/leetcode/array"
   }
 }]]></component>
-  <component name="RunManager" selected="Application._26_Remove_Duplicates_from_Sorted_Array">
+  <component name="RunManager">
     <configuration name="_1_Two_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_1_Two_Sum" />
       <module name="array" />
@@ -96,16 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_26_Remove_Duplicates_from_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_26_Remove_Duplicates_from_Sorted_Array" />
-      <module name="array" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._26_Remove_Duplicates_from_Sorted_Array" />
         <item itemvalue="Application._1_Two_Sum" />
       </list>
     </recent_temporary>
@@ -119,7 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669805112734</updated>
       <workItem from="1669805114130" duration="4000" />
-      <workItem from="1670830514480" duration="4966000" />
+      <workItem from="1670830514480" duration="3429000" />
     </task>
     <servers />
   </component>

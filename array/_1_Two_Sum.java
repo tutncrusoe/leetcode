@@ -38,6 +38,8 @@ import java.util.Map;
  */
 public class _1_Two_Sum {
 
+    // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>     SOLUTION        <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
     /**
      * Approach 1: Brute Force
      * Algorithm
@@ -52,14 +54,27 @@ public class _1_Two_Sum {
      * <p>
      * Space complexity: O(1). The space required does not depend on the size of the input array, so only constant space is used.
      */
+
+    public static void main(String[] args) {
+        int[] input = new int[]{2, 11, 15, 7};
+        int target = 9;
+//        Output: [3, 0]
+
+        int[] output = twoSum_(input, target);
+
+        System.out.println("Output: " + Arrays.toString(output));
+//        Output: [3, 0]
+
+    }
+
+
+    // Best Practice
     // 2 ms
     public static int[] twoSum_(int[] nums, int target) {
-
         for (int i = 1; i < nums.length; i++) {
             for (int j = i; j < nums.length; j++) {
                 int sum = nums[j] + nums[j - i];
-
-                if (target == sum) {
+                if (sum == target) {
                     return new int[]{j, j - i};
                 }
             }
@@ -115,11 +130,4 @@ public class _1_Two_Sum {
         return null;
     }
 
-    public static void main(String[] args) {
-        int[] input = new int[]{2, 11, 15, 7};
-        int target = 9;
-        int[] output = twoSum_(input, target);
-
-        System.out.println("Output: " + Arrays.toString(output));
-    }
 }

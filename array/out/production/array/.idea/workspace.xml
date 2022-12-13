@@ -5,45 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51ccca94-c324-4281-b650-742c6c7a2be9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/array.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_1295_Find_Numbers_with_Even_Number_of_Digits/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_1295_Find_Numbers_with_Even_Number_of_Digits/.idea/aws.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_1295_Find_Numbers_with_Even_Number_of_Digits/.idea/jpa-buddy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_1295_Find_Numbers_with_Even_Number_of_Digits/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_1295_Find_Numbers_with_Even_Number_of_Digits/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_1295_Find_Numbers_with_Even_Number_of_Digits/_1295_Find_Numbers_with_Even_Number_of_Digits.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_1295_Find_Numbers_with_Even_Number_of_Digits/out/production/_1295_Find_Numbers_with_Even_Number_of_Digits/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_1295_Find_Numbers_with_Even_Number_of_Digits/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/_1295_Find_Numbers_with_Even_Number_of_Digits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_26_Remove_Duplicates_from_Sorted_Array/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_26_Remove_Duplicates_from_Sorted_Array/.idea/aws.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_26_Remove_Duplicates_from_Sorted_Array/.idea/jpa-buddy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_26_Remove_Duplicates_from_Sorted_Array/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_26_Remove_Duplicates_from_Sorted_Array/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_26_Remove_Duplicates_from_Sorted_Array/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_26_Remove_Duplicates_from_Sorted_Array/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_26_Remove_Duplicates_from_Sorted_Array/_26_Remove_Duplicates_from_Sorted_Array.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_26_Remove_Duplicates_from_Sorted_Array/out/production/_26_Remove_Duplicates_from_Sorted_Array/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_26_Remove_Duplicates_from_Sorted_Array/src/_26_Remove_Duplicates_from_Sorted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/_26_Remove_Duplicates_from_Sorted_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_27_Remove_Element/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_27_Remove_Element/.idea/aws.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_27_Remove_Element/.idea/jpa-buddy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_27_Remove_Element/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_27_Remove_Element/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_27_Remove_Element/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_27_Remove_Element/_27_Remove_Element.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_27_Remove_Element/out/production/_27_Remove_Element/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_27_Remove_Element/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/_27_Remove_Element.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_88_Merge_Sorted_Array/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_88_Merge_Sorted_Array/.idea/aws.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_88_Merge_Sorted_Array/.idea/jpa-buddy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_88_Merge_Sorted_Array/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_88_Merge_Sorted_Array/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_88_Merge_Sorted_Array/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_88_Merge_Sorted_Array/_88_Merge_Sorted_Array.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_88_Merge_Sorted_Array/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/_88_Merge_Sorted_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_1_Two_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/_1_Two_Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_26_Remove_Duplicates_from_Sorted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/_26_Remove_Duplicates_from_Sorted_Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,10 +50,13 @@
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "/home/tutncrusoe/DATA/leetcode/array"
+    "last_opened_file_path": "C:/Users/Admin/Desktop/HUY/leetcode/array",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application._26_Remove_Duplicates_from_Sorted_Array">
     <configuration name="_1_Two_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_1_Two_Sum" />
       <module name="array" />
@@ -96,8 +64,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_26_Remove_Duplicates_from_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_26_Remove_Duplicates_from_Sorted_Array" />
+      <module name="array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._26_Remove_Duplicates_from_Sorted_Array" />
         <item itemvalue="Application._1_Two_Sum" />
       </list>
     </recent_temporary>
@@ -111,7 +87,8 @@
       <option name="presentableId" value="Default" />
       <updated>1669805112734</updated>
       <workItem from="1669805114130" duration="4000" />
-      <workItem from="1670830514480" duration="3429000" />
+      <workItem from="1670830514480" duration="4966000" />
+      <workItem from="1670940608059" duration="269000" />
     </task>
     <servers />
   </component>

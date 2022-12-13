@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 /**
  * You are given two integer arrays nums1 and nums2, sorted in non-decreasing order, and two integers m and n, representing the number of elements in nums1 and nums2 respectively.
  * <p>
@@ -40,14 +42,18 @@
  * Follow up: Can you come up with an algorithm that runs in O(m + n) time?
  */
 public class _88_Merge_Sorted_Array {
+
     public static void main(String[] args) {
 
         int[] nums1 = {1, 2, 3, 0, 0, 0}, nums2 = {2, 5, 6};
         int m = 3, n = 3;
+//        output: [1, 2, 2, 3, 5, 6]
 
-        int[] result = merge(nums1, m, nums2, n);
+        int[] output = merge(nums1, m, nums2, n);
 
-        System.out.println("result: " + result);
+        System.out.println("output: " + Arrays.toString(output));
+//        output: [1, 2, 2, 3, 5, 6]
+
     }
 
     public static int[] merge(int[] nums1, int m, int[] nums2, int n) {

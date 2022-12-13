@@ -100,9 +100,42 @@ public class _26_Remove_Duplicates_from_Sorted_Array {
      * <p>
      * Note: After reaching the end of the array, our insertIndex variable will hold the count of unique elements in our input array.
      */
+    public static void main(String[] args) {
+
+        int[] nums = {0, 0, 1, 1, 1, 2, 2, 3, 3, 4};
+//        Output: 5
+
+//        int result = removeDuplicates(nums);
+//        System.out.println("result: " + result);
+//        Output: 5
+
+
+        // OR
+
+
+        int output = removeDuplicates_(nums);
+        System.out.println("Output: " + output);
+//        Output: 5
+
+    }
+
+
+    //    Best practice
+    // 1 ms
+    public static int removeDuplicates_(int[] nums) {
+        int insertIndex = 1;
+        for (int i = 1; i < nums.length; i++) {
+            if (nums[i] != nums[i - 1]) {
+                nums[insertIndex] = nums[i];
+                insertIndex++;
+            }
+        }
+        return insertIndex;
+    }
+
+
     // 1 ms
     public static int removeDuplicates(int[] nums) {
-
         int count = 0, pointer = 0;
         for (int i = 1; i < nums.length; i++) {
             if (nums[i] == nums[pointer]) {
@@ -113,37 +146,8 @@ public class _26_Remove_Duplicates_from_Sorted_Array {
                 nums[count] = nums[pointer];
             }
         }
-
         return count + 1;
     }
 
-    //    Best practice
-    // 1 ms
-    public static int removeDuplicates_(int[] nums) {
-        int insertIndex = 1;
-        for (int i = 1; i < nums.length; i++) {
-            // We skip to next index if we see a duplicate element
-            if (nums[i - 1] != nums[i]) {
-                /* Storing the unique element at insertIndex index and incrementing
-                   the insertIndex by 1 */
-                nums[insertIndex] = nums[i];
-                insertIndex++;
-            }
-        }
-        return insertIndex;
-    }
-
-    public static void main(String[] args) {
-
-        int[] nums = {0, 0, 1, 1, 1, 2, 2, 3, 3, 4};
-
-//        int result = removeDuplicates(nums);
-//        System.out.println("result: " + result);
-
-        // OR
-
-        int output = removeDuplicates_(nums);
-        System.out.println("Output: " + output);
-    }
 
 }

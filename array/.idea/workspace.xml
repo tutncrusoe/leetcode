@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51ccca94-c324-4281-b650-742c6c7a2be9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_1_Two_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/_1_Two_Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_26_Remove_Duplicates_from_Sorted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/_26_Remove_Duplicates_from_Sorted_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_27_Remove_Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/_27_Remove_Element.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_88_Merge_Sorted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/_88_Merge_Sorted_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/array/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/array/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/array/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/array/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/array/_1295_Find_Numbers_with_Even_Number_of_Digits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/array/_1295_Find_Numbers_with_Even_Number_of_Digits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/array/_1_Two_Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/array/_1_Two_Sum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/array/_26_Remove_Duplicates_from_Sorted_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/array/_26_Remove_Duplicates_from_Sorted_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/array/_27_Remove_Element.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/array/_27_Remove_Element.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/array/_88_Merge_Sorted_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/array/_88_Merge_Sorted_Array.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +47,7 @@
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "C:/Users/Admin/Desktop/HUY/leetcode/array",
+    "last_opened_file_path": "C:/Users/Admin/Desktop/HUY/leetcode/Array",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -113,7 +101,11 @@
       <updated>1669805112734</updated>
       <workItem from="1669805114130" duration="4000" />
       <workItem from="1670830514480" duration="4966000" />
-      <workItem from="1670940608059" duration="4269000" />
+      <workItem from="1670940608059" duration="4659000" />
+      <workItem from="1670945319368" duration="3000" />
+      <workItem from="1670945324595" duration="10000" />
+      <workItem from="1670945360759" duration="20000" />
+      <workItem from="1670945386955" duration="4000" />
     </task>
     <servers />
   </component>
